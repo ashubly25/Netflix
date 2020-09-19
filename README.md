@@ -1,6 +1,6 @@
 # Netflix App
 
-This project was inpired in Netflix interface and was reproduced for study purposes. Also, it was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+This project was inspired in Netflix interface and was reproduced for study purposes. Also, it was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 # Test yourself
 
