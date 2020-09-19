@@ -21,7 +21,8 @@ Besides the default installation with `create-react-app`, two 3rd party library 
 
 The first one was used to user have a better experience with url navigation and keep react application sync'd. The other one was to ease the use of horizontal carousel like Netflix.
 
-https://github.com/ashubly25/Netflix/blob/master/Screenshot%20from%202020-09-19%2017-31-27.png
+Preview
+(https://github.com/ashubly25/Netflix/blob/master/Screenshot%20from%202020-09-19%2017-31-27.png)
 
 
 # Features
